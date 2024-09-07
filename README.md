@@ -21,7 +21,7 @@ I'm Arlwin, a Cloud Software Engineer from the Philippines.
 <td>Flutter</td>
 </tr>
 <tr>
-<th rowspan=2>Javascript</th>
+<th rowspan=2>Javascript / Typescript</th>
 <td>React JS</td>
 </tr>
 <td>Vue JS</td>
